@@ -1,0 +1,58 @@
+# ====== Global ======
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ====== Python (TDD_basic) ======
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+.envrc
+.screenshot_console.png
+result/
+
+# ====== Android (Android_ImageApp) ======
+# Build artifacts
+.gradle/
+build/
+*/build/
+
+# IDE config
+.idea/
+*.iml
+
+# Local SDK / keystore
+local.properties
+*.keystore
+*.jks
+
+# Gradle cache
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# System files
+*.class
+*.dex
+*.apk
+*.ap_
+*.aab
+
+# Misc Android Studio output
+captures/
+outputs/
+intermediates/
+navigation.json
+generated/
+
+# ====== OS ======
+ehthumbs.db
+Icon?
