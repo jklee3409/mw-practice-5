@@ -15,7 +15,6 @@ __pycache__/
 venv/
 .envrc
 .screenshot_console.png
-result/
 
 # ====== Android (Android_ImageApp) ======
 # Build artifacts
